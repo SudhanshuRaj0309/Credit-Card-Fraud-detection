@@ -15,3 +15,8 @@ Download the dataset from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfrau
 - `matplotlib`
 - `seaborn`
 - `scikit-learn`
+
+Accuracy: 99.96%
+Precision: 96.25%
+Recall: 78.57%
+F1-Score: 86.51%
